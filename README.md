@@ -1,1 +1,2 @@
 # zig
+```choco install zig```
